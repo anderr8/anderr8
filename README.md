@@ -1,16 +1,34 @@
-### Hi there 👋
+# anderDEV
 
-<!--
-**anderr8/anderr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá meu nome é Anderson
+## Estou Cursando 2º Semestre de TECNOLOGIA EM DESENVOLVIMENTO WEB 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estou buscando uma vaga no  momento
+
+## Habilidades em Tecnologia
+- Cursando: JS React + Redux
+- Vtex
+- Expressões Regulares com Python 3
+-	Curso de Algoritmo 
+-	Curso de PHP
+-	Curso de JavaScript
+-	Curso de Java
+-	Curso de POO de Java
+-	Curso de POO de PHP
+-	Curso de HTML5 e CSS3
+-	Curso de Git e GitHub
+- Curso de Redes 
+-	Python
+- Linux
+-	Montagem e Configuração de Microcomputadores
+-	Tecnologia da Informação e Comunicação
+- Lógica de Programação
+
+
+## Pronto e comprometido a assumir novas funções, viver novas rotinas e agregar conhecimentos para um bom resultado. 
+
+## Contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-tavares-935b0516a)
+
