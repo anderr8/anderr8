@@ -2,7 +2,7 @@
 
 
 # Tudo bom, meu nome é Anderson
-## Estou Cursando 3º Semestre de TECNOLOGIA EM DESENVOLVIMENTO WEB 
+## Estou Cursando 4º Semestre de TECNOLOGIA EM DESENVOLVIMENTO WEB 
 
 ## Estou buscando uma vaga no  momento
 
