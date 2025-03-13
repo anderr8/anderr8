@@ -4,7 +4,7 @@
 # Tudo bom, meu nome é Anderson
 ## Estou Cursando 4º Semestre de TECNOLOGIA EM DESENVOLVIMENTO WEB 
 
-## No momento estou estaginado!!!!!!!!!
+## No momento estou estagiando!!!!!!!!!
 
 ## Habilidades em Tecnologia
 - Cursando: JS React + Redux
