@@ -2,9 +2,9 @@
 
 
 # Tudo bom, meu nome é Anderson
-## Estou Cursando 4º Semestre de TECNOLOGIA EM DESENVOLVIMENTO WEB 
+## Tecnologo EM DESENVOLVIMENTO WEB pela Faculdade Anhanguera
 
-## No momento estou estagiando!!!!!!!!!
+## No momento estou estagiando, Full Stack!!!!!!!!!
 
 ## Habilidades em Tecnologia
 - Cursando: JS React + Redux
